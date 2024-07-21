@@ -29,87 +29,10 @@ Make lists by nabbing selections
     + [[file:llm-chats-re-mexico.org]]
   + [[https://medium.com/heated/without-social-media-this-astonishing-restaurant-remains-under-the-radar-45b5199e9f86][Without Social Media, This Astonishing Restaurant Remains Under the Radar | by Laura Tillman | Heated ≫ medium.com]]
 ** TODO TRY JUGO VERDE
+* San Cristobal de las Casas
+  An interesting place at high elevation to escape the heat - very southern, very indigenous (Chiapas state)
+  + [[https://www.google.com/maps/place/San+Cristobal+de+las+Casas,+Chis.,+Mexico/@18.3283574,-100.5496212,7z/data=!4m6!3m5!1s0x85ed453b1ea89bcf:0x48d55ca34957e2de!8m2!3d16.7370359!4d-92.6376186!16s%2Fg%2F11bc5h5fh9?authuser=0&entry=ttu][San Cristobal de las Casas - Google Maps ≫ www.google.com]]
+  + [[https://www.youtube.com/watch?v=nKWnanNeFAI][ESTA ES LA CIUDAD DE MEXICO DONDE ME GUSTARIA VIVIR👀😍 | SAN CRISTOBAL DE LAS CASAS🇲🇽 - YouTube ≫ www.youtube.com]]
+
 * Hiking (senderismo, pasear, bicicletas)
   + [[https://www.alltrails.com/es-mx/explore/trail/mexico/oaxaca/escaleras-del-fortin-creston-cruz-de-piedra?u=i][Explora Escaleras del Fortín - Creston - Cruz de Piedra | AllTrails ≫ www.alltrails.com]]
-
-* General vacation stuff
-** Money
-   + [ ] Cash!
-** Electronics
-   + [ ] Kindle
-   + [ ] Chargers
-   + [ ] Switch + Joycons + dock + charger
-   + [ ] Roku and/or Chromecast
-   + [ ] HDMI cable
-   + [ ] Phone + bluetooth
-   + [ ] Headphones
-   + [ ] electric adapters for foreign countries
-** Beach
-   + [ ] aloe
-   + [ ] bug spray
-   + [ ] anti-itch gel
-   + [ ] sunscreen
-   + [ ] pool shorts / amphibian shorts
-   + [ ] pool shoes
-   + [ ] sandals
-   + [ ] pool shirts / high spf shirts
-   + [ ] rain cover
-   + [ ] dive & snorkel masks
-** Ski
-   + [ ] long johns
-   + [ ] hot chilis / thin warm layer
-   + [ ] sweaters
-   + [ ] ski pants
-   + [ ] hoodie
-   + [ ]
-** Viral pandemic
-   + [ ] surgical masks
-   + [ ] alcohol wipes
-** Observability
-   + [ ] binoculars!
-   + [ ] glasses cleaners!
-   + [ ] goggles / spare glasses (?)
-** Non-hotel
-   + maybe some tide pods
-   + Soap and shampoo
-   + Hair concrete
-** Consumables - food and drink
-   + [ ] Coffee / ESE pods
-   + [ ] coffee maker (aeropress, water heater ...)
-** Health
-   + [ ] resistance bands
-   + [ ] band aids,
-   + [ ] anti-allergy: zirtec,nasicort
-   + [ ] glasses cleaners
-** Documents
-   + [ ] ID: passport, drivers license
-   + [ ] Fiat money
-* Car trips
-  + [ ] tire patching kit
-  + [ ] first aid kit
-  + [ ] Cooler
-  + [ ] hiking knapsack
-  + [ ] Tesla mobile charger and adapters
-  + [ ] Festival chairs
-  + [ ] banjo, picks, music
-  + [ ] utensils, picnic kit, cups, openers, plates
-  + [ ] plastic bags
-  + [ ] non-plastic shopping bags!
-  + [ ] inverter
-  + [ ] hum and juice
-  + [ ] ultrasonic cleaner for glasses - along with chammies
-* Prep before leaving
-  + [ ] contact bank about travel plans
-  + [ ] check + instructions for cleaner, pet sitter
-  + [ ] lights and windows
-  + [ ] unplug things
-    + [ ] tesla UMC
-  + [ ] Spewie the mistifier
-  + [ ] kitty litter, water, food
-  + [ ] fill litter containers
-  + [ ] fill feeding tower with dry food
-  + [ ] Mousse treats for use by the Kitty Sitter
-* Specific lists
-  Create a header for a new vacation, refile sections from [[file:00-vacation-packing-lists-TEMPLATE.org]]
-  + [[file:2021-08-Los Angeles.org]]
-  +

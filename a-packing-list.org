@@ -1,0 +1,81 @@
+* General vacation stuff
+** Money
+   + [ ] Cash!
+** Electronics
+   + [ ] Kindle
+   + [ ] Chargers
+   + [ ] Switch + Joycons + dock + charger
+   + [ ] Roku and/or Chromecast
+   + [ ] HDMI cable
+   + [ ] Phone + bluetooth
+   + [ ] Headphones
+   + [ ] electric adapters for foreign countries
+** Beach
+   + [ ] aloe
+   + [ ] bug spray
+   + [ ] anti-itch gel
+   + [ ] sunscreen
+   + [ ] pool shorts / amphibian shorts
+   + [ ] pool shoes
+   + [ ] sandals
+   + [ ] pool shirts / high spf shirts
+   + [ ] rain cover
+   + [ ] dive & snorkel masks
+** Ski
+   + [ ] long johns
+   + [ ] hot chilis / thin warm layer
+   + [ ] sweaters
+   + [ ] ski pants
+   + [ ] hoodie
+   + [ ]
+** Viral pandemic
+   + [ ] surgical masks
+   + [ ] alcohol wipes
+** Observability
+   + [ ] binoculars!
+   + [ ] glasses cleaners!
+   + [ ] goggles / spare glasses (?)
+** Non-hotel
+   + maybe some tide pods
+   + Soap and shampoo
+   + Hair concrete
+** Consumables - food and drink
+   + [ ] Coffee / ESE pods
+   + [ ] coffee maker (aeropress, water heater ...)
+** Health
+   + [ ] resistance bands
+   + [ ] band aids,
+   + [ ] anti-allergy: zirtec,nasicort
+   + [ ] glasses cleaners
+** Documents
+   + [ ] ID: passport, drivers license
+   + [ ] Fiat money
+* Car trips
+  + [ ] tire patching kit
+  + [ ] first aid kit
+  + [ ] Cooler
+  + [ ] hiking knapsack
+  + [ ] Tesla mobile charger and adapters
+  + [ ] Festival chairs
+  + [ ] banjo, picks, music
+  + [ ] utensils, picnic kit, cups, openers, plates
+  + [ ] plastic bags
+  + [ ] non-plastic shopping bags!
+  + [ ] inverter
+  + [ ] hum and juice
+  + [ ] ultrasonic cleaner for glasses - along with chammies
+* Prep before leaving
+  + [ ] contact bank about travel plans
+  + [ ] check + instructions for cleaner, pet sitter
+  + [ ] lights and windows
+  + [ ] unplug things
+    + [ ] tesla UMC
+  + [ ] Spewie the mistifier
+  + [ ] kitty litter, water, food
+  + [ ] fill litter containers
+  + [ ] fill feeding tower with dry food
+  + [ ] Mousse treats for use by the Kitty Sitter
+* Specific lists
+  Create a header for a new vacation, refile sections from [[file:00-vacation-packing-lists-TEMPLATE.org]]
+  + [[file:2021-08-Los Angeles.org]]
+  +
