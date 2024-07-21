@@ -1,0 +1,115 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:nil arch:headline author:t broken-links:nil
+#+options: c:nil creator:nil d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t timestamp:t title:t toc:nil
+#+options: todo:t |:t
+#+title: México 2024
+#+date: <2024-07-19 Fri>
+#+author: Gregory Grubbs
+#+email: gregory.grubbs@gmail.com
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 28.0.50 (Org mode 9.4.6)
+#+setupfile: ~/projects/emacs/org-themes/src/readtheorg_inline/readtheorg_inline.theme
+Make lists by nabbing selections
+* Some thoughts
+  + Day of the dead happens late October
+    + people rave about it, and Oaxaca city is kind of ground zero
+    + May be too much people for me, so think about mid-October?
+* Gluten free in México
+  + [[https://www.legalnomads.com/gluten-free/mexico/][The Essential Gluten Free Guide to Mexico (2023 Update) ≫ www.legalnomads.com]]
+* Oaxaca city and state
+  + [[https://vueltalmun.com/2023/11/27/oaxaca-tiene-todo-colores-sabores-y-fiesta-en-el-corazon-de-mexico/][Oaxaca tiene todo: Colores, Sabores y Fiesta en el corazón de México – Vueltalmun ≫ vueltalmun.com]]
+  + [[https://www.youtube.com/watch?v=qFjsvRJ1zNY&t=205s][My First Week In OAXACA CITY, MEXICO (+ ideas for first time visitors!) - YouTube ≫ www.youtube.com]]
+    + Behold the vision
+  + [[https://www.youtube.com/watch?v=FQZpuzskAhw][OAXACA 2023 🔴 CHEAP Guide | GASTRONOMIC Tour | What to do in 2 days | MUST SEE IN OAXACA - YouTube ≫ www.youtube.com]]
+  + [[https://www.oyster.com/es/articles/11-things-every-traveler-needs-to-know-before-going-to-oaxaca/][11 cosas que todo viajero debe saber antes de ir a Oaxaca]]
+  + [[https://fundaciontortilla.org/Cocina/los_tamales_oaxaquenos_uno_de_los_ejes_de_su_cocina_comunitaria][Los tamales oaxaqueños, uno de los ejes de su cocina comunitaria ≫ fundaciontortilla.org]]
+    + Note the celebration of San Francisco de Asís on October 4 (in San Francisco de la Mar in the southeast of Oaxaca)
+    + [[file:llm-chats-re-mexico.org]]
+  + [[https://medium.com/heated/without-social-media-this-astonishing-restaurant-remains-under-the-radar-45b5199e9f86][Without Social Media, This Astonishing Restaurant Remains Under the Radar | by Laura Tillman | Heated ≫ medium.com]]
+** TODO TRY JUGO VERDE
+* Hiking (senderismo, pasear, bicicletas)
+  + [[https://www.alltrails.com/es-mx/explore/trail/mexico/oaxaca/escaleras-del-fortin-creston-cruz-de-piedra?u=i][Explora Escaleras del Fortín - Creston - Cruz de Piedra | AllTrails ≫ www.alltrails.com]]
+
+* General vacation stuff
+** Money
+   + [ ] Cash!
+** Electronics
+   + [ ] Kindle
+   + [ ] Chargers
+   + [ ] Switch + Joycons + dock + charger
+   + [ ] Roku and/or Chromecast
+   + [ ] HDMI cable
+   + [ ] Phone + bluetooth
+   + [ ] Headphones
+   + [ ] electric adapters for foreign countries
+** Beach
+   + [ ] aloe
+   + [ ] bug spray
+   + [ ] anti-itch gel
+   + [ ] sunscreen
+   + [ ] pool shorts / amphibian shorts
+   + [ ] pool shoes
+   + [ ] sandals
+   + [ ] pool shirts / high spf shirts
+   + [ ] rain cover
+   + [ ] dive & snorkel masks
+** Ski
+   + [ ] long johns
+   + [ ] hot chilis / thin warm layer
+   + [ ] sweaters
+   + [ ] ski pants
+   + [ ] hoodie
+   + [ ]
+** Viral pandemic
+   + [ ] surgical masks
+   + [ ] alcohol wipes
+** Observability
+   + [ ] binoculars!
+   + [ ] glasses cleaners!
+   + [ ] goggles / spare glasses (?)
+** Non-hotel
+   + maybe some tide pods
+   + Soap and shampoo
+   + Hair concrete
+** Consumables - food and drink
+   + [ ] Coffee / ESE pods
+   + [ ] coffee maker (aeropress, water heater ...)
+** Health
+   + [ ] resistance bands
+   + [ ] band aids,
+   + [ ] anti-allergy: zirtec,nasicort
+   + [ ] glasses cleaners
+** Documents
+   + [ ] ID: passport, drivers license
+   + [ ] Fiat money
+* Car trips
+  + [ ] tire patching kit
+  + [ ] first aid kit
+  + [ ] Cooler
+  + [ ] hiking knapsack
+  + [ ] Tesla mobile charger and adapters
+  + [ ] Festival chairs
+  + [ ] banjo, picks, music
+  + [ ] utensils, picnic kit, cups, openers, plates
+  + [ ] plastic bags
+  + [ ] non-plastic shopping bags!
+  + [ ] inverter
+  + [ ] hum and juice
+  + [ ] ultrasonic cleaner for glasses - along with chammies
+* Prep before leaving
+  + [ ] contact bank about travel plans
+  + [ ] check + instructions for cleaner, pet sitter
+  + [ ] lights and windows
+  + [ ] unplug things
+    + [ ] tesla UMC
+  + [ ] Spewie the mistifier
+  + [ ] kitty litter, water, food
+  + [ ] fill litter containers
+  + [ ] fill feeding tower with dry food
+  + [ ] Mousse treats for use by the Kitty Sitter
+* Specific lists
+  Create a header for a new vacation, refile sections from [[file:00-vacation-packing-lists-TEMPLATE.org]]
+  + [[file:2021-08-Los Angeles.org]]
+  +
